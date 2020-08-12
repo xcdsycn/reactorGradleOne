@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.lxh.reactor.example.SequenceGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-12T10:08:19" hostname="lxh.local" time="0.13">
+  <properties/>
+  <testcase name="testGenerateFibonacciWithTuples" classname="com.lxh.reactor.example.SequenceGeneratorTest" time="0.13"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
